@@ -1,0 +1,9 @@
+{
+    "pyAutoInstallApk": {
+		"FileName": "jack",
+		"ApkFilePath": "./apk",
+		"Mode": "d",
+        "LogLevel": "d",
+		"CMDtimeoutSec": ""
+    }
+}
